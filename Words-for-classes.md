@@ -1,3 +1,5 @@
+[:arrow_left: Back](https://github.com/Awake-coding/cheat-sheets)
+
 # Слова для классов
 
 ## Блоки
@@ -274,3 +276,5 @@
 
 
 За основу взят источник: [Слова, часто используемые в CSS-классах](https://github.com/yoksel/common-words)
+
+[:arrow_left: Back](https://github.com/Awake-coding/cheat-sheets)

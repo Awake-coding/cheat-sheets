@@ -1,8 +1,10 @@
+[:arrow_left: Back](https://github.com/Awake-coding/cheat-sheets)
+
 # Названия символов на клавиатуре
 
 ### Скобки разделяют на:
-  - "открывающие" (open)
-  - "закрывающие" (close)
+  - "открывающие" (open) = (, {, [, <
+  - "закрывающие" (close) = ), }, ], >,
 
 | Символ |          RU         |            EN            |
 |:------:| ------------------- | ------------------------ |
@@ -41,3 +43,5 @@
 
 
 За основу взят источник: [Названия символов на клавиатуре](https://github.com/web-standards-ru/dictionary/blob/main/keyboard.md)
+
+[:arrow_left: Back](https://github.com/Awake-coding/cheat-sheets)

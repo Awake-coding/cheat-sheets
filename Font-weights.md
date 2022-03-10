@@ -1,3 +1,5 @@
+[:arrow_left: Back](https://github.com/Awake-coding/cheat-sheets)
+
 # Жирность шрифта
 
 | font-weight  |     RU      |            EN            |
@@ -14,3 +16,5 @@
 
 
 За основу взят источник: [Таблица имён насыщенности шрифта](https://github.com/web-standards-ru/dictionary/blob/main/font-weights.md)
+
+[:arrow_left: Back](https://github.com/Awake-coding/cheat-sheets)
