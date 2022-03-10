@@ -2,6 +2,36 @@
 
 # Слова для классов
 
+| Блоки     | Списки  | Раскладка   | Текст        | Изображения | Элементы управления | Медиавыражения | Размеры  | Дополнительно   | Состояния |
+| ------    | ------  | ------      | ------       | ------      | ------              | ------         | ------   | ------          | ------    |
+| `page`    | `list`  | `wrapper`   | `title`      | `image`     | `button`            | `phone`        | `tiny`   | `search`        | `active`  |
+| `header`  | `items` | `wrap`      | `subject`    | `img`       | `btn`               | `mobile`       | `small`  | `socials`       | `current` |
+| `footer`  | `item`  | `inner`     | `heading`    | `picture`   | `control`           | `phablet`      | `medium` | `advertisement` | `visible` |
+| `section` |         | `container` | `headline`   | `pic`       | `dropdown`          | `tablet`       | `big`    | `adv`           | `hidden`  |
+| `main`    |         | `holder`    | `caption`    | `icon`      |                     | `notebook`     | `large`  | `commercial`    | `error`   |
+| `body`    |         | `box`       | `subtitle`   | `logo`      |                     | `laptop`       | `huge`   | `promo`         | `warning` |
+| `content` |         | `grid`      | `slogan`     | `userpic`   |                     | `desktop`      | `narrow` | `features`      | `success` |
+| `sidebar` |         | `row`       | `lead`       | `avatar`    |                     |                | `wide`   | `benefits`      | `pending` |
+| `aside`   |         | `col`       | `tagline`    | `thumbnail` |                     |                |          | `slider`        |           |
+| `widget`  |         | `column`    | `text`       | `thumb`     |                     |                |          | `carousel`      |           |
+|           |         |             | `desc`       |             |                     |                |          | `pagination`    |           |
+|           |         |             | `excerpt`    |             |                     |                |          | `user`          |           |
+|           |         |             | `quote`      |             |                     |                |          | `author`        |           |
+|           |         |             | `blockquote` |             |                     |                |          | `meta`          |           |
+|           |         |             | `snippet`    |             |                     |                |          | `cart`          |           |
+|           |         |             | `link`       |             |                     |                |          | `basket`        |           |
+|           |         |             | `copyright`  |             |                     |                |          | `breadcrumbs`   |           |
+|           |         |             | `copy`       |             |                     |                |          | `more`          |           |
+|           |         |             |              |             |                     |                |          | `all`           |           |
+|           |         |             |              |             |                     |                |          | `modal`         |           |
+|           |         |             |              |             |                     |                |          | `popup`         |           |
+|           |         |             |              |             |                     |                |          | `tooltip`       |           |
+|           |         |             |              |             |                     |                |          | `tip`           |           |
+|           |         |             |              |             |                     |                |          | `preview`       |           |
+|           |         |             |              |             |                     |                |          | `overlay`       |           |
+|           |         |             |              |             |                     |                |          |                 |           |
+
+
 - ## Блоки
   - `page` — корневой элемент страницы
   - `header` — шапка (страницы или элемента)
