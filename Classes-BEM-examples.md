@@ -22,6 +22,32 @@
      </ul>
   </nav>
   ```
+- ### Сообщение успех/ошибка
+  ```HTML
+  <div class="message message--success">
+     <h3 class="message__title">Заголовок сообщения</h3>
+     <div class="message__text">Текст сообщения</div>
+  </div>
+
+  <div class="message message--error">
+     <h3 class="message__title">Заголовок сообщения</h3>
+     <div class="message__text">Текст сообщения</div>
+  </div>
+  ```
+
+  Обоим элементам можно добавить одинаковые стили используя общий класс .message и так же легко можно добавить отдельные стили для каждого из них, используя уникальный класс с модификатором.
+
+  ```CSS
+  .message {
+    border: 1px solid gray;
+  }
+    .message--success {
+      border-color: green;
+    }
+    .message--error {
+      border-color: red;
+    }
+  ```
 - ### Галерея
   ```HTML
   <div class="gallery">
@@ -171,6 +197,11 @@
 
 
 <br><br>
+
+
+За основу взяты источники:
+  - [Слова, часто используемые в CSS-классах](https://github.com/yoksel/common-words)
+  - [Как писать классы по БЭМ?](http://yoksel.github.io/easy-markup/bem-rules/)
 
 
 [:arrow_left: Back](https://github.com/Awake-coding/cheat-sheets)
