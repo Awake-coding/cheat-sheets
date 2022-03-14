@@ -3,40 +3,23 @@
 
 # Примеры "BEM":
 
-- ### Список
+- ### Выпадающее меню ```nav>ul>li>a+(ul>li>a)```
   ```HTML
-  <ul class="list">
-    <li class="item">item-text</li>
-    <li class="item">item-text</li>
-    <li class="item">item-text</li>
-  </ul>
-  ```
-- ### Навигация
-  ```HTML
-  <nav class="nav">
-    <a class="nav__link nav__link--active">Главная</a>
-    <a class="nav__link" href="#">text-link</a>
-    <a class="nav__link" href="#">text-link</a>
-    <a class="nav__link" href="#">text-link</a>
-    <a class="nav__link" href="#">text-link</a>
-  </nav>
-  ```
-  ```HTML
-  <nav class="nav">
-    <ul class="nav__list">
-      <li class="nav__item nav__item--current">
-        <a class="nav__link">Главная</a>
-      </li>
-      <li class="nav__item">
-        <a class="nav__link" href="#">text-link</a>
-      </li>
-      <li class="nav__item">
-        <a class="nav__link" href="#">text-link</a>
-      </li>
-      <li class="nav__item">
-        <a class="nav__link" href="#">text-link</a>
-      </li>
-    </ul>
+  <nav class="menu">
+     <ul class="menu__list">
+       <li class="menu__item active">
+         <a class="menu__link" href="#">
+            Обувь
+         </a>
+         <ul class="submenu__list">
+            <li class="submenu__item">
+               <a class="submenu__link" href="#">
+                  Босоножки
+               </a>
+            </li>
+         </ul>
+       </li>
+     </ul>
   </nav>
   ```
 - ### Галерея
@@ -44,10 +27,10 @@
   <div class="gallery">
     <ul class="gallery__list">
       <li class="gallery__item">
-        <img class="gallery__img" src="flowers.jpg" alt="Цветём как в последний раз">
+        <img class="gallery__img" src="flowers.jpg" alt="Цветы">
       </li>
       <li class="gallery__item">
-        <img class="gallery__img" src="trees.jpg" alt="Парк «Три сосны»">
+        <img class="gallery__img" src="trees.jpg" alt="Деревья">
       </li>
     </ul>
   </div>
