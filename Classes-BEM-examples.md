@@ -202,6 +202,7 @@
 За основу взяты источники:
   - [Слова, часто используемые в CSS-классах](https://github.com/yoksel/common-words)
   - [Как писать классы по БЭМ?](http://yoksel.github.io/easy-markup/bem-rules/)
+  - [Методология HTML по БЭМ](https://ru.bem.info/methodology/html/)
 
 
 [:arrow_left: Back](https://github.com/Awake-coding/cheat-sheets)
