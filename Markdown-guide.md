@@ -297,8 +297,8 @@
         - [Диаграммы отношений сущностей](https://mermaid-js.github.io/mermaid/#/./entityRelationshipDiagram)
         - [Диаграмма пути пользователя](https://mermaid-js.github.io/mermaid/#/./user-journey)
     - [geoJSON и topoJSON](https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/creating-diagrams#creating-geojson-and-topojson-maps) — создания интерактивных карт
-        - [geoJSON](https://geojson.org/) документация
-            - [online create geoJSON](https://geojson.io/#map=2/20.0/0.0)
+        1. [geoJSON](https://geojson.org/) документация
+            - Online [create geoJSON](https://geojson.io/#map=2/20.0/0.0)
                 - можно сохранять файл в формате `map.geojson`, нужно нажимать `Save` > `GeoJSON`
             - <details><summary>👈 Пример 1 (geojson)</summary><p>
 
@@ -439,8 +439,8 @@
                 ```
               </p><hr></details>
 
-        - [topoJSON](https://github.com/topojson/topojson-specification/blob/master/README.md) документация
-            - [online create geoJSON](https://geojson.io/#map=2/20.0/0.0)
+        2. [topoJSON](https://github.com/topojson/topojson-specification/blob/master/README.md) документация
+            - Online [create geoJSON](https://geojson.io/#map=2/20.0/0.0)
                 - можно сохранять файл в формате `map.topojson`, нужно нажимать `Save` > `TopoJSON`
             - <details><summary>👈 Пример 1 (topojson)</summary><p>
 
