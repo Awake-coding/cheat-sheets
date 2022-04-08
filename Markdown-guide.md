@@ -78,13 +78,18 @@
       - `['cheat-sheets'](https://github.com/Awake-coding/cheat-sheets)`
     - Ссылки на разделы
       - <img width="220px" alt="link__h1-h6" title="" src="img/link__h1-h6.jpg">
-    - Относительные ссылки
-      - `[LICENSE watch file](LICENSE.md)`
+    - Абсолютная ссылка
+      - `[LICENSE](https://github.com/Awake-coding/cheat-sheets/blob/main/LICENSE.md)`
+    - Относительная ссылка
+      - `[LICENSE](LICENSE.md)`
     </p><hr></details>
 
 
 
-7. <details><summary>👈 Картинки <code>![](Link)</code></summary><p>
+7. <details><summary>👈 Картинки/файлы <code>![](Link)</code></summary><p>
+
+    - Максимальный размер файла: 10 МБ для изображений, гифок, видео и 25 МБ для всех остальных файлов
+    - Поддержка файлов: .png, .gif, .jpg, .svg, .log, .docx, .pptx, .xlsx, .txt, .pdf, .zip, .gz, .mp4, .mov
 
     - <img width="70px" alt="Octocat" title="Octocat" src="https://myoctocat.com/assets/images/base-octocat.svg">
 
@@ -298,7 +303,7 @@
         - [Диаграмма пути пользователя](https://mermaid-js.github.io/mermaid/#/./user-journey)
     - [geoJSON и topoJSON](https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/creating-diagrams#creating-geojson-and-topojson-maps) — создания интерактивных карт
         1. Документация [geoJSON](https://geojson.org/)
-            - Создание [geoJSON online](https://geojson.io/#map=2/20.0/0.0)
+            - Создание [online geoJSON](https://geojson.io/#map=2/20.0/0.0)
                 - можно сохранять файл в формате `map.geojson`, нужно нажимать `Save` > `GeoJSON`
             - <details><summary>👈 Пример 1 (geojson)</summary><p>
 
@@ -440,7 +445,7 @@
               </p><hr></details>
 
         2. Документация [topoJSON](https://github.com/topojson/topojson-specification/blob/master/README.md)
-            - Создание [topoJSON online](https://geojson.io/#map=2/20.0/0.0)
+            - Создание [online topoJSON](https://geojson.io/#map=2/20.0/0.0)
                 - можно сохранять файл в формате `map.topojson`, нужно нажимать `Save` > `TopoJSON`
             - <details><summary>👈 Пример 1 (topojson)</summary><p>
 
