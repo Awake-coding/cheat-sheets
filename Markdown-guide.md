@@ -82,6 +82,8 @@
       - `[LICENSE](https://github.com/Awake-coding/cheat-sheets/blob/main/LICENSE.md)`
     - Относительная ссылка
       - `[LICENSE](LICENSE.md)`
+    - [Делать ссылки на код](https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/creating-a-permanent-link-to-a-code-snippet)
+        - <img width="220px" alt="link-code" title="" src="img/link-code.jpg">
     </p><hr></details>
 
 
