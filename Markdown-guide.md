@@ -13,7 +13,7 @@
 
 
 
-2. <details><summary>👈 Стилизация текста <code>*</code>, <code>_</code>, <code>~</code></summary><p>
+2. <details><summary>👈 Стилизация текста <code>*</code> <code>_</code> <code>~</code></summary><p>
 
       | Синтаксис | Результат                       |
       | ---       | ---                             |
