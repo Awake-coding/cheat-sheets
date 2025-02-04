@@ -1,3 +1,5 @@
+[:arrow_left: Back](https://github.com/Awake-coding/cheat-sheets)
+
 # HTML/CSS шпаргалка
 
 1. [Селекторы +, >, ~](#селекторы)
